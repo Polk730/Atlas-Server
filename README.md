@@ -36,3 +36,7 @@ remain on the Atlas server to avoid duplicating them in the repository.
 The deployment contains the current games, local multiplayer, seasonal
 backgrounds, and friends/message notifications. Background notifications still
 require an open page; GitHub Pages does not add an offline push service.
+
+## Deployment
+
+GitHub Pages publishing enabled on 23 October 2026.
